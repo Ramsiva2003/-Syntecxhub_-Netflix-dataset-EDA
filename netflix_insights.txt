@@ -1,0 +1,8 @@
+
+📌 Netflix Dataset Insights:
+
+1️⃣ Movies dominate Netflix content compared to TV Shows.
+2️⃣ Content addition grew rapidly after 2015.
+3️⃣ USA, India, and UK are top producers of Netflix titles.
+4️⃣ Drama and Comedy are the most common genres.
+5️⃣ Most movies run between 80–120 minutes.
