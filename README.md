@@ -1,6 +1,7 @@
 # -Syntecxhub_-Netflix-dataset-EDA
 This project performs **Exploratory Data Analysis (EDA)** on the Netflix dataset to uncover trends and insights about its content.   The analysis focuses on identifying content growth patterns, genre popularity, and the differences between movies and TV shows.
-🎯 Objectives
+
+# Objectives
 
 Load and clean the Netflix dataset
 
@@ -10,11 +11,11 @@ Visualize key insights
 
 Export cleaned data and summary
 
-🧰 Tools Used
+# Tools Used
 
 Pandas, NumPy, Matplotlib, Seaborn
 
-📊 Key Insights
+# Key Insights
 
 Movies dominate over TV shows.
 
@@ -26,7 +27,7 @@ Drama and Comedy are the most common genres.
 
 Most movies run between 80–120 minutes.
 
-🖼️ Visualizations
+# Visualizations
 
 Movies vs TV Shows
 
